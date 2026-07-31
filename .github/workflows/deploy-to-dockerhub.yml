@@ -31,5 +31,5 @@ jobs:
           context: .
           push: true
           tags: |
-            bach0128/skills-deploy-to-azure:latest
-            bach0128/skills-deploy-to-azure:${{ github.sha }}
+            zedtran43/skills-deploy-to-azure:latest
+            zedtran43/skills-deploy-to-azure:${{ github.sha }}
